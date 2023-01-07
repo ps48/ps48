@@ -16,12 +16,12 @@
       <ul>
         <li> 🔭 I’m currently working on intersection on Observability and Machine Learning. </li>
         <li> 🌱 I’m currently learning details on Large Language Models.  </li>
-        <li> 👯 I’m looking to collaborate on ML ops  </li>
+        <li> 👯 I’m looking to collaborate on real life ML use-cases  </li>
         <li> 🤔 I’m looking for help with latest happenings in AIops.  </li>
         <li> 💬 Ask me about Computer Vision, Machine Learning, Observability and Search. </li>
         <li> 📫 How to reach me: pshenoy36|at|gmail|dot|com </li>
           <li> 😄 Pronouns: He/Him/His </li>
-          <li> ⚡ Fun fact: My music choices range from Rap to Dubstep. </li>
+          <li> ⚡ Fun fact: My music choices range from Hip Hop to Dubstep. </li>
       </ul>
     </td>
     <td>
