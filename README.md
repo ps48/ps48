@@ -7,7 +7,7 @@
     👋 🌎, I'm Shenoy Pratik.
   </h3>
   <p>
-     Currently, SDE at <a href="https://github.com/opensearch-project">Amazon Web Services</a>. Know more about me  <a href="https://github.com/opensearch-project">here</a>
+     Currently, SDE at <a href="https://github.com/opensearch-project">Amazon Web Services</a>. Know more about me  <a href="https://ps48.github.io">here</a>
   </p>
 </div>
 <div>
