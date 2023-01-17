@@ -49,6 +49,6 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ps48&show_icons=true&theme=dark" alt=""/>
   </a>
   <a href="http://ps48.github.io">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ps48&theme=dark" alt=""/>
+    <img src="https://streak-stats.demolab.com/?user=ps48&theme=dark" alt=""/>
   </a>
 </div>
