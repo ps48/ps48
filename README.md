@@ -39,7 +39,7 @@
     </td>
     <td>
       <p>Now Playing 🎵 </p>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4v4zxmqmncns33vldbyfzp66e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=t8w216e7xcb6m186b0ixi8dw7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
      </td>
   </tr>
   </table>
