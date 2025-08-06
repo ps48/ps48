@@ -37,11 +37,6 @@
           <li> ⚡ Fun fact: My music choices range from Hip Hop to Dubstep. </li>
       </ul>
     </td>
-    <td>
-      <p>Now Playing 🎵 </p>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=t8w216e7xcb6m186b0ixi8dw7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
-     </td>
-  </tr>
   </table>
 
 <div id="stats" align="center">
