@@ -41,9 +41,9 @@
 
 <div id="stats" align="center">
   <a href="http://ps48.github.io">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ps48&show_icons=true&theme=dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ps48&show_icons=true&theme=radical" alt=""/>
   </a>
   <a href="http://ps48.github.io">
-    <img src="https://streak-stats.demolab.com/?user=ps48&theme=dark" alt=""/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ps48&theme=radical" alt=""/>
   </a>
 </div>
